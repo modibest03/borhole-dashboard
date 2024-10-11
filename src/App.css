@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  font-family: 'Arial', sans-serif;
+}
+
+.sensor-data {
+  margin: 20px 0;
+}
+
+.card {
+  margin-bottom: 20px;
+}
+
+.alert {
+  font-weight: bold;
+}
